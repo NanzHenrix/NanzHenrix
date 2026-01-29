@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h2 align="center">
-  <b>&lt;(^_^)&gt; END OF BEGINNING &lt;/(^_^)&gt;</b>
+  <b>&lt;(^_^)&gt; END OF BEGINNING &lt;(^_^)&gt;</b>
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
