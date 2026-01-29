@@ -13,4 +13,4 @@
 </p>
 <h2  align="center">✧Activity Graph Based On Commits✧</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NanzHenrix&theme=react&bg_color=35eddc)](https://github.com/NanzHenrix/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NanzHenrix&theme=react&bg_color=f9f6ee)](https://github.com/NanzHenrix/github-readme-activity-graph)
