@@ -5,8 +5,6 @@
 </h1>
 <h2 align="center">
   <b>&lt;(^_^)&gt; END OF BEGINNING &lt;(^_^)&gt;</b>
-</h2>
-<h3> Welcome to My GitHub Profile...</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,python,ae,windows,github,vscode,git,figma,au,react" />
